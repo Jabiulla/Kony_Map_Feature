@@ -1,0 +1,20 @@
+{
+    "AS_Button_c76ea3bbfc6a42b8acddfd793b6660c9": {
+        "id": "AS_Button_c76ea3bbfc6a42b8acddfd793b6660c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f90c4116d1374108b67f2c91de32f95c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "addPins",
+            "display": "addPins",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

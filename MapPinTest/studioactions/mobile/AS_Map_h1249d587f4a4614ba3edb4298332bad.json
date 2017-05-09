@@ -1,0 +1,36 @@
+{
+    "AS_Map_h1249d587f4a4614ba3edb4298332bad": {
+        "id": "AS_Map_h1249d587f4a4614ba3edb4298332bad",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "boundaryLocations"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___febf836909b848d89cfdef14ce7bf21e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "mapBoundsChange",
+            "display": "mapBoundsChange",
+            "inputparams": [{
+                "name": "mapWidget",
+                "value": " eventobject"
+            }, {
+                "name": "dict",
+                "value": " boundaryLocations"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

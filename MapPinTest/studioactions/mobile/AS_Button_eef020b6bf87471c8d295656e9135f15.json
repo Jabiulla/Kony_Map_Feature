@@ -1,0 +1,27 @@
+{
+    "AS_Button_eef020b6bf87471c8d295656e9135f15": {
+        "id": "AS_Button_eef020b6bf87471c8d295656e9135f15",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f2a1d30b0ab54c9fb9b5b2a5e66cc500"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c2743a40a5344a3392911bb0b2c71459",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "removePin",
+            "display": "removePin",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null
+        }]
+    }
+}

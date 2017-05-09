@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "56dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6fc164795994b40bcb5a2ea63437db5",
+    "_text_": "Add Pins",
+    "_top_": {
+        "type": "string",
+        "value": "586dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "110dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s591a17bd2a74ca5bb4c904ea5f19bed",
+    "id": "btnAddPins",
+    "ide_onClick": "AS_Button_c76ea3bbfc6a42b8acddfd793b6660c9",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f208d92b682e4dc2be15bc3841ce6fdc",
+    "name": "kony.ui.Button",
+    "parent": "frmHome",
+    "pf": "frmHome",
+    "wType": "Button",
+    "zindex": 1
+}
