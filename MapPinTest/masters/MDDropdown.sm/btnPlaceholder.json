@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s473c73fd87c47839be15bdded632d56",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m3c7f7c322874c12a093b3945f65baf3"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s473c73fd87c47839be15bdded632d56",
+    "id": "btnPlaceholder",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7e8d31bd4b7d42c3b7e2f3740e8e564f",
+    "name": "kony.ui.Button",
+    "parent": "flxTextBox2",
+    "pf": "MDDropdown",
+    "wType": "Button",
+    "zindex": 3
+}

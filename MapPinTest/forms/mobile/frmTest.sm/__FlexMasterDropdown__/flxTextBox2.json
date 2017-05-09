@@ -1,0 +1,62 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd3cb4d52f3347e68e6017162c80306a",
+    "_srcKuid_": "6284e6c5ff144994a137ef4dcca98e59",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "lblTitle",
+        "lblInput",
+        "lblPlaceHolder",
+        "btnExpand",
+        "lblUnderLine",
+        "btnPlaceholder"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "62dp"
+        },
+        "id": "flxTextBox2",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "flxTextBox2",
+    "instanceOf": "6284e6c5ff144994a137ef4dcca98e59",
+    "isvisible": true,
+    "kuid": "m3d4bf31c2624437ba74a9854f87510e",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexMasterDropdown",
+    "pf": "frmTest",
+    "topLevelInstanceKUID": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "wType": "FlexContainer"
+}

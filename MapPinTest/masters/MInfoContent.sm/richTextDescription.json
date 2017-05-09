@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "s4e5b848bc304466ad2c3389195c6d74",
+    "_text_": "RichText",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "richTextDescription",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9d5433bf5f104b33bb12b164a2a913b5",
+    "linkskin": "s4e5b848bc304466ad2c3389195c6d74",
+    "name": "kony.ui.RichText",
+    "parent": "FlexContainerInner",
+    "pf": "MInfoContent",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

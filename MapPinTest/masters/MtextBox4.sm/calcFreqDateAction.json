@@ -1,0 +1,113 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__id": "MtextBox4_Calendar0ad915d0d7c8f43",
+    "__input": "Calendar0ad915d0d7c8f43",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "10/4/2017",
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa35942f591741fd874d517869c5b776",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        10,
+        4,
+        2017,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 10,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        4,
+        2017
+    ],
+    "entereddate": [
+        10,
+        4,
+        2017,
+        0,
+        0,
+        0
+    ],
+    "focusskin": "sa35942f591741fd874d517869c5b776",
+    "format": "dd/MM/yyyy",
+    "formatteddate": "10/04/2017",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calcFreqDateAction",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d0a8435d69e2413b849d2c3085e1b563",
+    "minutes": 0,
+    "month": 4,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2017",
+    "parent": "flxTextBox4",
+    "pf": "MtextBox4",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 0,
+    "selectdate": "//2017",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2017,
+    "zindex": 5
+}

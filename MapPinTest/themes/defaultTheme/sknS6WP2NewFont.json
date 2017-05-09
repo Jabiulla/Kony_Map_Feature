@@ -1,0 +1,141 @@
+{
+    "android": {
+        "font_name": "AvenirNextLTPro-CE",
+        "font_size": 114,
+        "isForked": false
+    },
+    "applicableblockedUIWidget": "Button",
+    "background_color": "ed2d23ff",
+    "bg_type": "one",
+    "blockedimgURL": "",
+    "border_color": "ed2d23ff",
+    "border_radius": 2,
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 2,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_radius": 10,
+    "bottom_left_border_width": 0,
+    "bottom_right_border_color": "000000ff",
+    "bottom_right_border_radius": 10,
+    "bottom_right_border_width": 0,
+    "desktopweb": {
+        "bottom_left_border_color": "ed2d23ff",
+        "bottom_left_border_radius": "2",
+        "bottom_left_border_style": "rc",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "ed2d23ff",
+        "bottom_right_border_radius": "2",
+        "bottom_right_border_style": "rc",
+        "bottom_right_border_width": 1,
+        "font_name": "AvenirNextLTPro-CE",
+        "isForked": true,
+        "top_left_border_color": "ed2d23ff",
+        "top_left_border_radius": "2",
+        "top_left_border_style": "rc",
+        "top_left_border_width": 1,
+        "top_right_border_color": "ed2d23ff",
+        "top_right_border_radius": "2",
+        "top_right_border_style": "rc",
+        "top_right_border_width": 1
+    },
+    "fontSizeInPx": false,
+    "font_color": "ffffffff",
+    "font_size": 114,
+    "font_weight": "normal",
+    "gridLineColor": "0000000",
+    "id": "sknS6WP2NewFont",
+    "ipad": {
+        "font_name": "AmericanTypewriter",
+        "font_size": 114,
+        "isForked": false
+    },
+    "iphone": {
+        "font_name": "AvenirNextLTPro-CE",
+        "font_size": 114,
+        "isForked": false
+    },
+    "isForked": false,
+    "kiosk": {
+        "font_name": "Avenir Next LT Pro",
+        "font_size": 114,
+        "isForked": false
+    },
+    "kuid": "s2c1ae8f0eab44c8a5155795c274ec60",
+    "shadow": {
+        "br": 0,
+        "color": "000000",
+        "inner": false,
+        "x": 0,
+        "y": 0
+    },
+    "spaan": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spaandroidtablet": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spabb": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spaip": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spaipad": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spawindowstablet": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "spawinphone8": {
+        "font_name": "Andale Mono",
+        "font_size": 114,
+        "isForked": false
+    },
+    "tabrcandroid": {
+        "font_name": "default",
+        "font_size": 114,
+        "isForked": false
+    },
+    "text_shadow": {
+        "br": 0,
+        "color": "000000",
+        "x": 0,
+        "y": 0
+    },
+    "top_left_border_color": "000000ff",
+    "top_left_border_radius": 10,
+    "top_left_border_width": 0,
+    "top_right_border_color": "000000ff",
+    "top_right_border_radius": 10,
+    "top_right_border_width": 0,
+    "vizChannel": "default",
+    "wType": "Button",
+    "watchos": {
+        "font_name": "Arial",
+        "font_size": 114,
+        "isForked": false
+    },
+    "windows8": {
+        "font_name": "GenericMonospace",
+        "font_size": 114,
+        "isForked": false
+    },
+    "winphone8": {
+        "font_name": "GenericMonospace",
+        "font_size": 114,
+        "isForked": false
+    }
+}

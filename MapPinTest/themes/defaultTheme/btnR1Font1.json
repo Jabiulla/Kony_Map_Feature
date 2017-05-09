@@ -1,0 +1,111 @@
+{
+    "android": {
+        "font_name": "digibank"
+    },
+    "applicableblockedUIWidget": "Button",
+    "background_color": "ed2d23ff",
+    "background_style": "vg",
+    "bg_type": "one",
+    "blockedimgURL": "",
+    "border_color": "ed2d23ff",
+    "border_radius": 100,
+    "border_style": "custom",
+    "border_type": 0,
+    "border_width": 1,
+    "bottom_left_border_color": "000000ff",
+    "bottom_left_border_radius": 10,
+    "bottom_left_border_width": 0,
+    "bottom_right_border_color": "000000ff",
+    "bottom_right_border_radius": 10,
+    "bottom_right_border_width": 0,
+    "desktopweb": {
+        "bottom_left_border_color": "ed2d23ff",
+        "bottom_left_border_radius": "30",
+        "bottom_left_border_style": "rc",
+        "bottom_left_border_width": 1,
+        "bottom_right_border_color": "ed2d23ff",
+        "bottom_right_border_radius": "30",
+        "bottom_right_border_style": "rc",
+        "bottom_right_border_width": 1,
+        "font_name": "digibank",
+        "isForked": true,
+        "top_left_border_color": "ed2d23ff",
+        "top_left_border_radius": "30",
+        "top_left_border_style": "rc",
+        "top_left_border_width": 1,
+        "top_right_border_color": "ed2d23ff",
+        "top_right_border_radius": "30",
+        "top_right_border_style": "rc",
+        "top_right_border_width": 1
+    },
+    "font_color": "ffffffff",
+    "font_size": 114,
+    "font_weight": "normal",
+    "gridLineColor": "0000000",
+    "id": "btnR1Font1",
+    "ipad": {
+        "font_name": "AmericanTypewriter"
+    },
+    "iphone": {
+        "font_name": "digibank"
+    },
+    "isForked": false,
+    "kiosk": {
+        "font_name": "Avenir Next LT Pro"
+    },
+    "kuid": "sc2d07fefc83462487c5b512d4906e60",
+    "shadow": {
+        "br": 0,
+        "color": "000000",
+        "inner": false,
+        "x": 0,
+        "y": 0
+    },
+    "spaan": {
+        "font_name": "Andale Mono"
+    },
+    "spaandroidtablet": {
+        "font_name": "Andale Mono"
+    },
+    "spabb": {
+        "font_name": "Andale Mono"
+    },
+    "spaip": {
+        "font_name": "Andale Mono"
+    },
+    "spaipad": {
+        "font_name": "Andale Mono"
+    },
+    "spawindowstablet": {
+        "font_name": "Andale Mono"
+    },
+    "spawinphone8": {
+        "font_name": "Andale Mono"
+    },
+    "tabrcandroid": {
+        "font_name": "default"
+    },
+    "text_shadow": {
+        "br": 0,
+        "color": "000000",
+        "x": 0,
+        "y": 0
+    },
+    "top_left_border_color": "000000ff",
+    "top_left_border_radius": 10,
+    "top_left_border_width": 0,
+    "top_right_border_color": "000000ff",
+    "top_right_border_radius": 10,
+    "top_right_border_width": 0,
+    "vizChannel": "default",
+    "wType": "Button",
+    "watchos": {
+        "font_name": "Arial"
+    },
+    "windows8": {
+        "font_name": "GenericMonospace"
+    },
+    "winphone8": {
+        "font_name": "GenericMonospace"
+    }
+}

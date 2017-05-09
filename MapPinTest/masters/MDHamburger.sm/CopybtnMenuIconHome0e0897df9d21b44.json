@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "15px"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "24px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "20px"
+    },
+    "_skin_": "s977e7a1db9445edb1d4da9b02076660",
+    "_text_": "help",
+    "_top_": {
+        "type": "string",
+        "value": "15px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30px"
+    },
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s977e7a1db9445edb1d4da9b02076660",
+    "id": "CopybtnMenuIconHome0e0897df9d21b44",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ma0876c072794759aa2dc66cf0f38416",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "CopyflxSingleMenuHome05718e416600149",
+    "pf": "MDHamburger",
+    "wType": "Button",
+    "zindex": 1
+}

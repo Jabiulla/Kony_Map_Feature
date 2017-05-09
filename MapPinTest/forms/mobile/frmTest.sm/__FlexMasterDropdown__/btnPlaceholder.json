@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s473c73fd87c47839be15bdded632d56",
+    "_srcKuid_": "7e8d31bd4b7d42c3b7e2f3740e8e564f",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "100%"
+        },
+        "id": "btnPlaceholder",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 3
+    },
+    "id": "btnPlaceholder",
+    "instanceOf": "7e8d31bd4b7d42c3b7e2f3740e8e564f",
+    "isvisible": true,
+    "kuid": "m3c7f7c322874c12a093b3945f65baf3",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxTextBox2",
+    "pf": "frmTest",
+    "topLevelInstanceKUID": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "wType": "Button"
+}

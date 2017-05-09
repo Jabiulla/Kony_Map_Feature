@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se48a500df0f4472b21cb375327f9108",
+    "_srcKuid_": "a24f1a26a10e4a8a8f7deb7bcda28367",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblError",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Test Error Message",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "95%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblError",
+    "instanceOf": "a24f1a26a10e4a8a8f7deb7bcda28367",
+    "isvisible": false,
+    "kuid": "ma15b8e935964bc2a5cd186ce6ecb039",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexMasterDropdown",
+    "pf": "frmTest",
+    "topLevelInstanceKUID": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "wType": "Label"
+}

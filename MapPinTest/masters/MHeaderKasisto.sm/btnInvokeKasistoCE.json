@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        4,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_skin_": "s244aaa0bdc4422ebeda964eff0ca23e",
+    "_text_": "Ask your Virtual Assistant",
+    "_top_": {
+        "type": "string",
+        "value": "11dp"
+    },
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s244aaa0bdc4422ebeda964eff0ca23e",
+    "id": "btnInvokeKasistoCE",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1f46acdc824842ed9b221bcefd3fc121",
+    "name": "kony.ui.Button",
+    "paddingLocked": false,
+    "parent": "FlexHeaderKasisto",
+    "pf": "MHeaderKasisto",
+    "wType": "Button",
+    "zindex": 1
+}

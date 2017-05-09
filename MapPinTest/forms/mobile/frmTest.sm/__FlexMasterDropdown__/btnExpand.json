@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa7377323978450a9c8cac5d8b11065d",
+    "_srcKuid_": "91a9262be6d64246a8be024b70756061",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "id": "btnExpand",
+        "right": {
+            "type": "string",
+            "value": "18dp"
+        },
+        "text": "expand",
+        "top": {
+            "type": "string",
+            "value": "8dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "zIndex": 1
+    },
+    "id": "btnExpand",
+    "instanceOf": "91a9262be6d64246a8be024b70756061",
+    "isvisible": false,
+    "kuid": "m0d2e3a722284101aa586e5380e38e92",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "flxTextBox2",
+    "pf": "frmTest",
+    "topLevelInstanceKUID": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "wType": "Button"
+}

@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "44dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_skin_": "s7e121adbf8046a7b0dad67caad704c6",
+    "_text_": "DONE",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sbf203b60b9047559363fc70bc66b3de",
+    "id": "btnSecondaryCTA",
+    "info": null,
+    "isvisible": true,
+    "kuid": "32cc414f6d54443c8df51cec8d1f35dd",
+    "name": "kony.ui.Button",
+    "parent": "FlexCTASecondarySingle",
+    "pf": "MCTASecondarySingle",
+    "wType": "Button",
+    "zindex": 1
+}

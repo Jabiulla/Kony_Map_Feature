@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s91dcd8a57164844b6883f45794dfd14",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s91dcd8a57164844b6883f45794dfd14",
+    "id": "btnBackButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "23d299ad57df46ab946d4c2ffcfb2922",
+    "name": "kony.ui.Button",
+    "parent": "flexHeaderIcon",
+    "pf": "MHeaderPopup",
+    "wType": "Button",
+    "zindex": 1
+}

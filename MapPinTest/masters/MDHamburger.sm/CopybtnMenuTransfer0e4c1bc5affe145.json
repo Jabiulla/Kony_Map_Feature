@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "49px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "70px"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_skin_": "s473c73fd87c47839be15bdded632d56",
+    "_text_": "Transfer funds",
+    "_top_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s473c73fd87c47839be15bdded632d56",
+    "id": "CopybtnMenuTransfer0e4c1bc5affe145",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6f9378570a5249e883410f335f0b9121",
+    "name": "kony.ui.Button",
+    "parent": "flxSubMenuCards",
+    "pf": "MDHamburger",
+    "wType": "Button",
+    "zindex": 1
+}

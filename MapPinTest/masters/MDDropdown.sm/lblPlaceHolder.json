@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "55dp"
+    },
+    "_skin_": "sa43f857ca644409b7cbf2e54f432037",
+    "_text_": "Transfer method",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mdc702698ba342e59ea7e9c2cfcccaa2"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblPlaceHolder",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "697a6c1265604e78a98654171fd47a7a",
+    "name": "kony.ui.Label",
+    "parent": "flxTextBox2",
+    "pf": "MDDropdown",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,57 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se9b05c2515f4bba8d264c9a6a7f37bc",
+    "_srcKuid_": "m8cb1a1f1cb34cf88f8d897b9aae6a2b",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "flxTextBox2",
+        "lblError"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "FlexMasterDropdown",
+        "layoutType": 4,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "75dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexMasterDropdown",
+    "instanceOf": "m8cb1a1f1cb34cf88f8d897b9aae6a2b",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "layouttype": 4,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmTest",
+    "pf": "frmTest",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

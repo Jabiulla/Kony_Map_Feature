@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa43f857ca644409b7cbf2e54f432037",
+    "_srcKuid_": "697a6c1265604e78a98654171fd47a7a",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "id": "lblPlaceHolder",
+        "left": {
+            "type": "string",
+            "value": "18dp"
+        },
+        "right": {
+            "type": "string",
+            "value": "55dp"
+        },
+        "text": "Transfer method",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "zIndex": 1
+    },
+    "id": "lblPlaceHolder",
+    "instanceOf": "697a6c1265604e78a98654171fd47a7a",
+    "isvisible": false,
+    "kuid": "mdc702698ba342e59ea7e9c2cfcccaa2",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flxTextBox2",
+    "pf": "frmTest",
+    "topLevelInstanceKUID": "mf1a5ce2761c4837afec4a4fbf3a1a85",
+    "wType": "Label"
+}

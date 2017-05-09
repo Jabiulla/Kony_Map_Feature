@@ -1,0 +1,59 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "54px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s80ff89443e5447c84d5cdbbeceef781",
+    "_top_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [],
+    "children": [
+        "CopybtnMenuIconHome0e0897df9d21b44",
+        "CopylblMenuTitleHome0136fe244f7fa4b"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "CopyflxSingleMenuHome05718e416600149",
+    "info": null,
+    "isvisible": true,
+    "kuid": "mecd95abda734893b6619aed0d644ae7",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxScrollMenu",
+    "pf": "MDHamburger",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}
